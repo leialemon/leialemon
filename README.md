@@ -12,11 +12,11 @@
  Always eager to learn new things! 
 </p> 
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener">
     <img src="https://github-readme-stats.vercel.app/api?username=leialemon&show_icons=true&theme=omni" alt="Juliana's GitHub stats">
   </a>
-</p>
+</p> -->
  
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener">
@@ -26,11 +26,13 @@
 
 
 ### You can find me at
-
-
-- 🌱 I’m currently learning Back end development with Java;
-- 📫 The best way to reach me is through email: julianabarrosf@protonmail.com;
-- ⚡ Fun fact: I have a bachelors and a masters degree in Law and have experience teaching :)
+<a href="https://www.linkedin.com/in/juliana-de-barros/" rel="noopener">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg">
+</a>
+<a href="https://www.discordapp.com/users/leialemon" rel="noopener">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/discord.svg">
+</a>
+Or message me at: julianabarrosf@protonmail.com
 
 <!---
 leialemon/leialemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
