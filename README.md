@@ -8,21 +8,22 @@
 <p align="left">
   <h4> ⚖️ ➡️ 🖥️ Transitioning my career from Law to Technology </h4>
  Currently studying back end development with Java at <a href="https://ada.tech/" rel="noopener">Ada Tech</a>.
+  
  Always eager to learn new things! 
 </p> 
-<div>
-<p>
+
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener">
     <img src="https://github-readme-stats.vercel.app/api?username=leialemon&show_icons=true&theme=omni" alt="Juliana's GitHub stats">
   </a>
 </p>
  
-<p>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leialemon&theme=omni" alt="Juliana's top languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leialemon&theme=omni" alt="Juliana's top languages">
   </a>  
 </p>
-</div>
+
 
 ### You can find me at
 
