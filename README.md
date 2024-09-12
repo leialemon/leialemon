@@ -26,8 +26,8 @@
 
 
 ### 📨 You can find me at
-<a style="text-decoration:none" href="https://www.linkedin.com/in/juliana-de-barros/" rel="noopener nofererrer" target="_blank">
-  <img style="margin-right:5" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg">
+<a style="text-decoration:none" href="https://www.linkedin.com/in/juliana-de-barros/" target="_blank" rel="noopener nofererrer">
+  <img style="margin-right:10" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg">
 </a>
 
 <a style="text-decoration:none" href="https://www.discordapp.com/users/leialemon" rel="noopener nofererrer" target="_blank">
