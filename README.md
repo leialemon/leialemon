@@ -1,5 +1,12 @@
-- 👋 Hi, I’m @leialemon/ Juliana Barros;
-- 😄 Pronouns: she/her;
+# 👋 Hello world! I’m @leialemon/ Juliana Barros
+### ♿ ASD | 👩‍💻 She/her
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,postman,postgres,c,py,bash,git,linux,ubuntu,mint,idea,neovim)](https://skillicons.dev)
+
+[![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=leialemon&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+
+### You can find me at
+
+
 - 🌱 I’m currently learning Back end development with Java;
 - 📫 The best way to reach me is through email: julianabarrosf@protonmail.com;
 - ⚡ Fun fact: I have a bachelors and a masters degree in Law and have experience teaching :)
