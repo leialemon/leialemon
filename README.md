@@ -25,11 +25,11 @@
 </p>
 
 
-### You can find me at
+### 📨 You can find me at
 <a href="https://www.linkedin.com/in/juliana-de-barros/" rel="noopener">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg">
+  <img style="margin-right:5" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg">
 </a>
-<p> </p>
+
 <a href="https://www.discordapp.com/users/leialemon" rel="noopener">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/discord.svg">
 </a>
