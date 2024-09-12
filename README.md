@@ -2,7 +2,7 @@
 ### ♿ ASD | 👩‍💻 She/her
 [![My Skills](https://skillicons.dev/icons?i=html,css,java,spring,postman,postgres,c,py,bash,git,linux,ubuntu,mint,idea,neovim)](https://skillicons.dev)
 
-[![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=leialemon&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=leialemon&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leialemon)](https://github.com/anuraghazra/github-readme-stats)
 
 ### You can find me at
 
