@@ -2,15 +2,16 @@
 ### ♿ ASD | 👩‍💻 She/her
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,java,spring,postman,postgres,c,py,bash,git,linux,ubuntu,mint,idea,neovim)](https://skillicons.dev)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leialemon&show_icons=true&theme=omni" alt="Juliana's GitHub stats">
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leialemon&theme=omni" alt="Juliana's top languages">
-</a>  
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=leialemon&show_icons=true&theme=omni" alt="Juliana's GitHub stats">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leialemon&theme=omni" alt="Juliana's top languages">
+  </a>  
+</p>
 ### You can find me at
 
 
