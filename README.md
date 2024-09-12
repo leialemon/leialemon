@@ -3,12 +3,12 @@
 
 <p align="left">
   <h4> ⚖️ ➡️ 🖥️ Transitioning my career from Law to Technology </h4>
- Currently studying back end development with Java at <a href="https://ada.tech/" rel="noopener">Ada Tech</a>.
+ Currently studying back end development with Java at <a href="https://ada.tech/" rel="noopener nofererrer" target="_blank">Ada Tech</a>.
   
  Always eager to learn new things! 
 </p> 
 <p align="center" display="block">
-  <a href="https://skillicons.dev" rel="noopener">
+  <a href="https://skillicons.dev" rel="noopener nofererrer" target="_blank">
     <img src="https://skillicons.dev/icons?i=html,css,java,spring,postman,postgres,c,py,bash,git,linux,ubuntu,mint,idea,neovim" alt="My Skills">
   </a>
 </p> 
@@ -19,18 +19,18 @@
 </p> -->
  
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener">
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener nofererrer" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leialemon&theme=omni" alt="Juliana's top languages">
   </a>  
 </p>
 
 
 ### 📨 You can find me at
-<a href="https://www.linkedin.com/in/juliana-de-barros/" rel="noopener">
+<a style="text-decoration:none" href="https://www.linkedin.com/in/juliana-de-barros/" rel="noopener nofererrer" target="_blank">
   <img style="margin-right:5" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg">
 </a>
 
-<a href="https://www.discordapp.com/users/leialemon" rel="noopener">
+<a style="text-decoration:none" href="https://www.discordapp.com/users/leialemon" rel="noopener nofererrer" target="_blank">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/discord.svg">
 </a>
 
