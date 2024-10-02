@@ -9,7 +9,7 @@
 </p> 
 <p align="center" display="block">
   <a href="https://skillicons.dev" rel="noopener nofererrer" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,java,spring,postman,postgres,c,py,bash,git,linux,idea,neovim" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=java,spring,postman,postgres,c,py,git,bash,linux,html,css,idea,neovim" alt="My Skills">
   </a>
 </p> 
 <!--<p align="center">
