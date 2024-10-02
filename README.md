@@ -2,7 +2,7 @@
 ### ♿ ASD | 👩‍💻 She/her
 
 <p align="left">
-  <h4> ⚖️ ➡️ 🖥️ Transitioning my career from Law to Technology </h4>
+  <h4> ⚖️ ➡️ 🖥️ Switching careers from Law to Technology </h4>
  Currently studying back end development with Java at <a href="https://ada.tech/" rel="noopener nofererrer" target="_blank">Ada Tech</a>.
   
  Always eager to learn new things! 
