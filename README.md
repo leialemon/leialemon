@@ -6,12 +6,31 @@
  Currently studying back end development with Java at <a href="https://ada.tech/" rel="noopener nofererrer" target="_blank">Ada Tech</a>.
   
  Always eager to learn new things! 
+
+## Languages and frameworks
 </p> 
 <p align="center" display="block">
   <a href="https://skillicons.dev" rel="noopener nofererrer" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java,spring,postman,postgres,c,py,git,bash,linux,html,css,idea,neovim" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=java,spring,c,py,bash,html,css" alt="My Skills">
   </a>
 </p> 
+
+## DevOPs
+</p> 
+<p align="center" display="block">
+  <a href="https://skillicons.dev" rel="noopener nofererrer" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git,maven,docker" alt="My Skills">
+  </a>
+</p> 
+
+## IDEs and other tools
+</p> 
+<p align="center" display="block">
+  <a href="https://skillicons.dev" rel="noopener nofererrer" target="_blank">
+    <img src="https://skillicons.dev/icons?i=idea,neovim,vim,code,postman,postgres,linux,terraform" alt="My Skills">
+  </a>
+</p> 
+
 <!--<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener">
     <img src="https://github-readme-stats.vercel.app/api?username=leialemon&show_icons=true&theme=omni" alt="Juliana's GitHub stats">
