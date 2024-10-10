@@ -27,7 +27,7 @@
 </p> 
 <p align="center" display="block">
   <a href="https://skillicons.dev" rel="noopener nofererrer" target="_blank">
-    <img src="https://skillicons.dev/icons?i=idea,neovim,vim,code,postman,postgres,linux,terraform" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=idea,neovim,vim,vscode,postman,postgres,linux,terraform" alt="My Skills">
   </a>
 </p> 
 
