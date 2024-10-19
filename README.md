@@ -11,7 +11,7 @@
 </p> 
 <p align="center" display="block">
   <a href="https://skillicons.dev" rel="noopener nofererrer" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,py,bash,html,css" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=java,spring,c,py,bash,html,css" alt="Icons for the lanaguages and frameworks with which I work: java, spring, C, python, bash, html, css">
   </a>
 </p> 
 
@@ -19,7 +19,7 @@
 </p> 
 <p align="center" display="block">
   <a href="https://skillicons.dev" rel="noopener nofererrer" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,maven,docker,kubernetes" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=git,maven,docker,kubernetes" alt="Icons for the devops tools I use: git, maven, docker, kubernetes">
   </a>
 </p> 
 
@@ -27,7 +27,7 @@
 </p> 
 <p align="center" display="block">
   <a href="https://skillicons.dev" rel="noopener nofererrer" target="_blank">
-    <img src="https://skillicons.dev/icons?i=idea,neovim,vim,vscode,postman,postgres,linux,terraform,selenium" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=idea,neovim,vim,vscode,postman,postgres,linux,terraform,selenium" alt="Icons for the IDEs and other development tools I use: Intellij Idea, neovim, vim, vscode, postman, postgres, linux, terraform, selenium">
   </a>
 </p> 
 
