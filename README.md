@@ -1,9 +1,11 @@
 # 👋 Hello world! I’m @leialemon/ Juliana Barros
 ### ♿ ASD | 👩‍💻 She/her
-
+<p align="center">
+  <img src="./hello world.png" alt="A picture of Juliana, a white woman with brown hair, with a speech balloon that says 'I am leialemon/Juliana Barros' against a purple background. She is surrounded by pictures of her five cats. Above them are the words 'Hello world'">
+</p>
 <p align="left">
-  <h4> ⚖️ ➡️ 🖥️ Switching careers from Law to Technology </h4>
- Currently studying back end development with Java at <a href="https://ada.tech/" rel="noopener nofererrer" target="_blank">Ada Tech</a>.
+  <h4> ⚖️ ➡️ 🖥️ Switched my career from Law to Technology </h4>
+ Java developer at [B3](https://www.b3.com.br/pt_br/para-voce).
   
  Always eager to learn new things! 
 
