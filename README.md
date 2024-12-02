@@ -5,7 +5,7 @@
 </p>
 <p align="left">
   <h4> ⚖️ ➡️ 🖥️ Switched my career from Law to Technology </h4>
- Java developer at (B3)[https://www.b3.com.br/pt_br/para-voce].
+ Java developer at <a href="https://www.b3.com.br/pt_br/para-voce" rel="noopener noreferrer" target="_blank">B3</a>.
   
  Always eager to learn new things! 
 
