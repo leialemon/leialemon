@@ -2,8 +2,8 @@
   <img src="./hello world.png" alt="A picture of Juliana, a white woman with brown hair, with a speech balloon that says 'I'm Juliana' against a purple background. She is surrounded by pictures of her five cats. Above them are the words 'Hello world'">
 </p>
 <p align="left">
-# 👋 Hello world! I’m @leialemon/ Juliana Barros
-### ♿ ASD | 👩‍💻 She/her
+<h1>👋 Hello world! I’m @leialemon/ Juliana Barros</h1>
+<h3>♿ ASD | 👩‍💻 She/her</h3>
 <h4> ⚖️ ➡️ 🖥️ Switched my career from Law to Technology </h4>
 Junior developer at <a href="https://www.b3.com.br/pt_br/para-voce" rel="noopener noreferrer" target="_blank">B3</a>.
   
