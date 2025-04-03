@@ -4,7 +4,7 @@
 <p align="left">
 <h1>👋 Hello world! I’m @leialemon/ Juliana Barros</h1>
 <h3>♿ ASD | 👩‍💻 She/her</h3>
-<h4> ⚖️ ➡️ 🖥️ Switched my career from Law to Technology </h4>
+<h4> ⚖️ ➡️ 🖥️ Shifted my career from Law to Technology </h4>
 Junior developer at <a href="https://www.b3.com.br/pt_br/para-voce" rel="noopener noreferrer" target="_blank">B3</a>.
   
  Always eager to learn new things! 
